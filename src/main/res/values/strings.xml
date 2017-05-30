@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+    <string name="computer_starts">Zaczyna komputer</string>
+    <string name="player_starts">Zaczyna gracz</string>
+    <string name="single_player">1 gracz</string>
+    <string name="multiplayer">2 graczy</string>
+    <string name="play_again">Jeszcze raz</string>
+    <string name="winner">Zwycięzca</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="p1Turn">p1Turn</string>
+    <string name="instruction">Dotknij planszy, aby potwierdzić wybór</string>
+    <string name="info">Jak grać ?</string>
+    <string name="exit">Wyjdź</string>
+    <string name="newgame">Nowa Gra</string>
+</resources>
